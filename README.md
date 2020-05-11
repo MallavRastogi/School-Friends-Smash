@@ -1,2 +1,2 @@
-# School-Friends-Smash
-It is a game like angry birds with a school scene
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
